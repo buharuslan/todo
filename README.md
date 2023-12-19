@@ -1,6 +1,6 @@
 # Todo 
 
-Демо [Create React App](https://todo-ruddy-pi.vercel.app).
+Демо [Ссылка](https://todo-ruddy-pi.vercel.app).
 
 ## React.js, Redux, Booststrap
 
